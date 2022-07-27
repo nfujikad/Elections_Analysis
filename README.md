@@ -46,4 +46,4 @@ The analysis of the election show that:
 ![Election Results](https://github.com/nfujikad/Elections_Analysis/blob/main/Resources/election_results.png)
 
 ## Summary
-With modifications, this code can be expanded to be used in any election. In the case where more columns and dat exists beyond candidate and county, votes can be calculated for more categories. Additionally, information can be broken down to determine the number of votes a candiidate received within each county. This would allow us to know hwo popular candidates are in specific regions. 
+With modifications, this code can be expanded to be used in any election. In the case where more columns and data exist beyond candidate and county, votes can be calculated for more categories. Additionally, information can be broken down to determine the number of votes a candiidate received within each county. This would allow us to know hwo popular candidates are in specific regions. 
